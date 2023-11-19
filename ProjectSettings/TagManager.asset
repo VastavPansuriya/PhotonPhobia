@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Danger
   layers:
   - Default
   - TransparentFX
@@ -34,16 +35,16 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - Switch
+  - Holder
   - Ground
   m_SortingLayers:
+  - name: Player
+    uniqueID: 2791680359
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
-    uniqueID: 3264190343
-    locked: 0
-  - name: Platform
-    uniqueID: 492488929
+  - name: Switch
+    uniqueID: 962906237
     locked: 0
