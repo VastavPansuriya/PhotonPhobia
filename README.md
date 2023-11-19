@@ -1,9 +1,15 @@
 # PhotonPhobia
 This game was created as part of a four-day game jam with the theme "Ignore Light/Control Many".
 
-# ABOUT GAME
+# About Game
 With the use of a switch, we can turn off the light and overcome PhotonPhobia.
 Switch can control many holders and do different Stuff.
+
+# Play It
+On Browser Playable Link:- https://vastav.itch.io/photon-phobia
+
+# LinkedIn
+LinkedIn:- https://www.linkedin.com/in/vastav-pansuriya-54234a24a/
 
 # Poncepts
 This game includes things like
