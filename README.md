@@ -3,7 +3,7 @@ This game was created as part of a four-day game jam with the theme "Ignore Ligh
 
 #ABOUT GAME
 With the use of a switch, we can turn off the light and overcome PhotonPhobia.
-Switch can controll many holder and do different Stuff.
+Switch can control many holders and do different Stuff.
 
 # Poncepts
 This game includes things like
@@ -11,3 +11,6 @@ This game includes things like
 - Use of Events and Some of dynamic coding
 - Batter Script communications
 
+## Screenshots
+
+![Screenshot 2023-11-19 233207](https://github.com/VastavPansuriya/PhotonPhobia/assets/143316767/b7b74ca6-43b3-4f14-bfce-cd988a282cf5)
